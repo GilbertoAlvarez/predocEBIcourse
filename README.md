@@ -1,3 +1,3 @@
-#my new project
--feature 1
--feature 2
+###My new project
+- feature 1
+- feature 2
