@@ -1,3 +1,3 @@
-###My new project
+### My new project
 - feature 1
 - feature 2
