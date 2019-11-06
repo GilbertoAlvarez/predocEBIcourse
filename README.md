@@ -1,3 +1,4 @@
 ### My new project
-- feature 1
-- feature 2
+- feature x1
+- feature x2
+- some more features
